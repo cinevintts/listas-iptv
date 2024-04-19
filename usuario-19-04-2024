@@ -1,0 +1,6 @@
+#EXTM3U size="big" 
+
+#EXTM3U size="big"
+#EXTINF:0 type="playlist" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Flive-tv%2F90650&psig=AOvVaw2V_3f8V3fWh33fksZ-6BAj&ust=1713632379150000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD1yJ3gzoUDFQAAAAAdAAAAABAE", Canais Ao Vivo
+#EXTBG: #FFFF00
+https://drive.google.com/uc?id=19pLBqHBUurVx5sXvF4VL17RkEmKODdzt&export=download
